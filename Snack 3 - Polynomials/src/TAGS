@@ -1,0 +1,20 @@
+
+./Assign_3_ExtraCredit.hs,71
+module Assign_3_ExtraCredit Assign_3_ExtraCredit4,5
+macid macid6,7
+
+./Assign_3.hs,367
+module Assign_3 Assign_34,5
+macid macid6,7
+macid macid7,8
+data Poly Poly10,11
+data Poly a = XX10,11
+            | Coef Coef11,12
+            | Sum Sum12,13
+            | Prod Prod13,14
+polyValue polyValue21,22
+polyValue polyValue22,23
+polyDegree polyDegree29,30
+polyDegree polyDegree30,31
+polyDeriv polyDeriv37,38
+polyDeriv polyDeriv38,39

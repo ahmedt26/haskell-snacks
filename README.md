@@ -1,2 +1,2 @@
-# CS1JC3
-My projects from my CS1JC3 computer science class. 
+# haskell-snacks
+Bite-sized code bits of various Haskell code. My work from my COMPSCI 1JC3 class, which focused on using Haskell to teach us about functional programming, among various aspects of Computer Science. 
