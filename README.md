@@ -1,2 +1,29 @@
-# haskell-snacks
-Bite-sized code bits of various Haskell code. My work from my COMPSCI 1JC3 class, which focused on using Haskell to teach us about functional programming, among various aspects of Computer Science. 
+# Haskell-Snacks
+
+Collection of modules built for ~~assignments for the CS-1JCS course~~. One of my first attempts at Haskell and functional programming.
+
+Modules include:
+* _Snack 1_ : Computing cubic roots
+* _Snack 2_ : Computations regarding vectors
+* _Snack 3/3+_ : Computations regarding polynomials, representing them in two forms.
+* _Snack 5_ : Approximating definite integrals.
+
+## Getting Started
+
+### Installation Guide
+
+- Install the Haskell Platform from <https://www.haskell.org/platform/>
+- ```cd``` into directory
+- Run ```stack setup```
+- Run ```stack build```
+- To load GHCi run ```stack ghci fileName.hs```
+
+### Verification and Testing
+Testing performed using Haskell's [QuickCheck module](http://hackage.haskell.org/package/QuickCheck).
+
+### Built With
+* Stack
+* Cabal
+
+### License
+See [License](LICENSE).
