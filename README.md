@@ -1,6 +1,6 @@
 # Haskell-Snacks
 
-Collection of modules built for ~~assignments for the CS-1JCS course~~. One of my first attempts at Haskell and functional programming.
+A collection of modules created in-part for my COMPSCI 1JC3 course, other part to learn! One of my first attempts at Haskell and functional programming.
 
 Modules include:
 * _Snack 1_ : Computing cubic roots
