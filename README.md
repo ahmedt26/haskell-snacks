@@ -21,6 +21,6 @@ Modules include:
 ### Verification and Testing
 Testing performed using Haskell's [QuickCheck module](http://hackage.haskell.org/package/QuickCheck).
 
-### Built With
+### Built Using:
 * Stack
 * Cabal
